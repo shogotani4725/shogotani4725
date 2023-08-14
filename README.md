@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shogotani4725
 - 👀 I’m interested in mah-jong!
-- 🌱 I’m currently learning coding. I have just started learning
+- 🌱 I’m currently learning coding. I have just started learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
